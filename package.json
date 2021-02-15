@@ -1,0 +1,19 @@
+{
+  "name": "assignment1",
+  "version": "1.0.0",
+  "description": "This is the first assignment given to students.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uriaz27/Assignment1.git"
+  },
+  "author": "Uzma Anam Riaz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/uriaz27/Assignment1/issues"
+  },
+  "homepage": "https://github.com/uriaz27/Assignment1#readme"
+}
